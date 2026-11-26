@@ -1,0 +1,10 @@
+Seller: Thanks for taking the time. I wanted to walk you through our platform. We have a dashboard, an alerts engine, a recommendation module, and an admin console.
+Buyer: Okay.
+Seller: The dashboard gives you a single view of everything. You can filter by region, by product, by distributor, and export it. The alerts engine sends notifications when thresholds are crossed.
+Buyer: Sure.
+Seller: Our recommendation module uses machine learning to generate suggestions. We have a lot of customers in your industry who like it. Let me share my screen and show you the admin console, which is really powerful.
+Buyer: Looks fine.
+Seller: Great. We also integrate with most of the major systems out there, and we are adding more every quarter.
+Buyer: Good to know.
+Seller: Alright, I think that covers it. Let me know if you have any questions and we can keep in touch.
+Buyer: Will do, thanks.
