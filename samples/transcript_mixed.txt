@@ -1,0 +1,8 @@
+Seller: Thanks for joining. What prompted you to look at this now?
+Buyer: Our planning is manual and it's a real problem. We miss forecasts every month and it's costing us.
+Seller: Do you have a sense of how much?
+Buyer: Roughly 2 million a year in stockouts, but that's an estimate.
+Seller: Got it. Let me show you how the recommendation module works. It surfaces suggestions for each distributor and explains the reasoning behind each one.
+Buyer: Interesting. We'd need to evaluate that against what we have.
+Seller: Of course. It works well with most data setups. Let me know what you think and we can reconnect.
+Buyer: Sounds good.
