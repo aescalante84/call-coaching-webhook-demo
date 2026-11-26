@@ -1,0 +1,14 @@
+Seller: Thanks for making time. Before I show anything, can I ask a few questions so I only show what matters?
+Buyer: Sure.
+Seller: How does the weekly plan get made today, and where does it break down?
+Buyer: It's mostly spreadsheets. Our biggest challenge is forecast misses at the distributor level, and the reconciliation is manual every Monday.
+Seller: What does a miss cost you?
+Buyer: We estimate stockouts cost us around 3 million a year, and markdowns on overproduction add another 1.5 million.
+Seller: Is that number owned by someone, and what's the target?
+Buyer: Operations owns it. The goal is to cut stockouts by 20 percent this fiscal year.
+Seller: If this worked, who would approve the budget, and would they join a follow-up?
+Buyer: The CFO signs off on anything above a threshold, and the VP of Supply Chain would sponsor it. I can bring both.
+Seller: What does your evaluation process look like, including security review and procurement?
+Buyer: Security review takes about three weeks, then procurement. We'd want a pilot with clear criteria first, ideally done by the end of Q1.
+Seller: Here's what I heard: manual reconciliation, a 3 million stockout problem, and a need for a provable pilot. I'll tailor the demo to those. As a next step, I'll send a pilot outline tomorrow and book a session with you, the CFO, and the VP next Thursday.
+Buyer: That works.
