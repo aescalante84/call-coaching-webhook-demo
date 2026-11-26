@@ -1,0 +1,46 @@
+{
+  "name": "Discovery call coaching rubric",
+  "version": "1.0",
+  "dimensions": [
+    {
+      "id": "pain_and_impact",
+      "name": "Pain and business impact",
+      "weight": 0.25,
+      "target_hits": 3,
+      "signals": ["problem", "challenge", "struggle", "costing", "costs us", "miss", "stockout", "delay", "manual", "frustrat", "impact"],
+      "coaching": "Ask what the problem costs and who feels it. If the buyer never names an impact, the demo has nothing to map to."
+    },
+    {
+      "id": "metrics",
+      "name": "Quantified metrics",
+      "weight": 0.20,
+      "target_hits": 2,
+      "signals": ["percent", "%", "million", "$", "per week", "per month", "per year", "hours", "days", "kpi", "target"],
+      "coaching": "Get one number and an owner for it. Unquantified pain cannot survive a CFO review."
+    },
+    {
+      "id": "economic_buyer",
+      "name": "Economic buyer identified",
+      "weight": 0.20,
+      "target_hits": 1,
+      "signals": ["budget", "sign off", "signs off", "approve", "approval", "cfo", "vp of", "who owns the budget", "final say"],
+      "coaching": "Find out who approves the spend and whether they are in the room. Ask how they prefer to be involved."
+    },
+    {
+      "id": "decision_process",
+      "name": "Decision process and criteria",
+      "weight": 0.15,
+      "target_hits": 2,
+      "signals": ["process", "timeline", "criteria", "evaluate", "security review", "legal", "procurement", "pilot", "proof", "by the end of"],
+      "coaching": "Map the steps from here to signature, including security, legal, and procurement, with dates."
+    },
+    {
+      "id": "next_step",
+      "name": "Dated next step",
+      "weight": 0.20,
+      "target_hits": 1,
+      "signals": ["next step", "next week", "tomorrow", "on thursday", "on friday", "on monday", "on tuesday", "on wednesday", "calendar invite", "i'll send", "let's schedule", "book a"],
+      "coaching": "End every call with a specific action, owner, and date. 'Let's keep in touch' is not a next step."
+    }
+  ]
+}
