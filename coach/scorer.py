@@ -105,6 +105,7 @@ class LLMScorer:
         self.api_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
         self.model = model or os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-5-5")
         self._post = post or self._http_post
+        self.last_usage = {}
 
     def _http_post(self, payload):
         req = urllib.request.Request(
@@ -128,6 +129,7 @@ class LLMScorer:
             "messages": [{"role": "user", "content": build_prompt(transcript, rubric)}],
         }
         body = self._post(payload)
+        self.last_usage = body.get("usage", {})  # tokens in/out, read by the eval runner
         text = "".join(b.get("text", "") for b in body.get("content", []))
         parsed = json.loads(text[text.index("{"): text.rindex("}") + 1])
         by_id = {d["id"]: d for d in rubric["dimensions"]}
