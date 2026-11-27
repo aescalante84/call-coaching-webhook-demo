@@ -1,0 +1,10 @@
+Seller: What's going on?
+Buyer: Planning takes too long. I'd say it frustrates people a bit.
+Seller: Any rough numbers?
+Buyer: A few hours a week, maybe. I'd have to check.
+Seller: Who signs off?
+Buyer: Probably someone in finance. I will ask.
+Seller: How will you evaluate?
+Buyer: We would probably try it for a while first.
+Seller: Next step?
+Buyer: I'll think about it and let you know.
