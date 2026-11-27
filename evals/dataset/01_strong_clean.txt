@@ -1,0 +1,8 @@
+Seller: What prompted you to look at this now?
+Buyer: Our planning is manual and it's a real problem. We miss forecasts every month, and stockouts cost us about 2 million a year.
+Seller: Who else cares about that number?
+Buyer: Our CFO, Maria. She has to approve any spend over 50 thousand, and she wants a pilot before she signs.
+Seller: What does the process look like from here?
+Buyer: Security review, then legal, then procurement. We want a decision by the end of March.
+Seller: I'll send the security pack tomorrow and book a 30-minute call with Maria on Thursday.
+Buyer: Works for me.
