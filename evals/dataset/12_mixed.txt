@@ -1,0 +1,8 @@
+Seller: What prompted you to look now?
+Buyer: Our planning is manual and it's a real problem. We miss forecasts every month and it's costing us.
+Seller: Do you have a sense of how much?
+Buyer: Roughly 2 million a year in stockouts, but that's an estimate.
+Seller: Who else is involved?
+Buyer: Our CFO will weigh in, but I don't know how she wants to be involved.
+Seller: We'd want a pilot first. I'll send a proposal next week and book a call with you on Tuesday.
+Buyer: Fine.
