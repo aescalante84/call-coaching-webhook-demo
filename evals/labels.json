@@ -1,0 +1,117 @@
+{
+  "_note": "Single-labeler, author-assigned. 0 = absent, 50 = partial, 100 = clear and buyer-stated. See evals/README.md.",
+  "labels": {
+    "01_strong_clean": {
+      "pain_and_impact": 100,
+      "metrics": 100,
+      "economic_buyer": 100,
+      "decision_process": 100,
+      "next_step": 100
+    },
+    "02_weak_clean": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "03_pain_only": {
+      "pain_and_impact": 100,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "04_negated_pain_and_budget": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "05_next_step_without_keywords": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 100
+    },
+    "06_vague_next_step": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "07_numbers_not_metrics": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "08_metric_without_keywords": {
+      "pain_and_impact": 100,
+      "metrics": 100,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "09_buyer_without_keywords": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 100,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "10_buyer_unknown": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 50,
+      "decision_process": 0,
+      "next_step": 50
+    },
+    "11_process_without_keywords": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 100,
+      "next_step": 0
+    },
+    "12_mixed": {
+      "pain_and_impact": 100,
+      "metrics": 100,
+      "economic_buyer": 50,
+      "decision_process": 50,
+      "next_step": 100
+    },
+    "13_seller_monologue": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    },
+    "14_partial_everything": {
+      "pain_and_impact": 50,
+      "metrics": 50,
+      "economic_buyer": 50,
+      "decision_process": 50,
+      "next_step": 0
+    },
+    "15_strong_different_vocabulary": {
+      "pain_and_impact": 100,
+      "metrics": 100,
+      "economic_buyer": 100,
+      "decision_process": 100,
+      "next_step": 100
+    },
+    "16_buyer_defers": {
+      "pain_and_impact": 0,
+      "metrics": 0,
+      "economic_buyer": 0,
+      "decision_process": 0,
+      "next_step": 0
+    }
+  }
+}
