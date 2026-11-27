@@ -1,0 +1,5 @@
+Seller: Tell me about your team.
+Buyer: We have about 200 employees and the offsite is in 10 days, so my week is crazy.
+Seller: Understood. What are you looking to do?
+Buyer: Not sure yet. I was asked to look at options.
+Seller: Fair enough.
