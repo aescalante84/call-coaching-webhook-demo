@@ -1,0 +1,4 @@
+Seller: Walk me through how you'd decide.
+Buyer: First our IT team looks at it, then InfoSec, then Dana's group votes. They meet at the end of March.
+Seller: Is there anything that could block it?
+Buyer: If InfoSec wants a second round. That happens about half the time.
