@@ -1,0 +1,8 @@
+Seller: What's the situation?
+Buyer: We bleed forty hours a week on spreadsheets. It's killing the team, and two people have already quit.
+Seller: Who owns the money for a fix?
+Buyer: Priya, our COO, holds the purse strings and has already told me she wants to see results.
+Seller: How would the choice get made?
+Buyer: A trial with our data in April, then an InfoSec check, then Priya decides.
+Seller: I'll send the trial plan on Monday and we'll walk Priya through it Wednesday at 2.
+Buyer: Done.
