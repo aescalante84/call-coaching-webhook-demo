@@ -1,0 +1,5 @@
+Seller: Thanks for taking the call. Do you have any questions about the product?
+Buyer: Not really. Send me the brochure.
+Seller: Sure. Anything else you'd like to know?
+Buyer: No, that's all.
+Seller: Great, thanks.
