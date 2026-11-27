@@ -1,0 +1,5 @@
+Seller: How big is the issue?
+Buyer: We lose something like four hundred pallets every quarter, roughly a fifth of our volume on that lane.
+Seller: Who feels that?
+Buyer: Operations. The team is buried in rework.
+Seller: Got it.
