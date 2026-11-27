@@ -1,0 +1,6 @@
+Seller: What challenges are you facing today?
+Buyer: Honestly, no real problem. Our process works fine and we're not frustrated with it.
+Seller: Is there a budget set aside for improving it?
+Buyer: No budget this year, and nobody is looking at this.
+Seller: Understood. Is there any timeline?
+Buyer: No. We're not evaluating anything.
